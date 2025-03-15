@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Boudica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boudicca_statue_London.JPG/800px-Boudicca_statue_London.JPG",
+    "lifespan": "30 AD – 61 AD",
+    "description": "Celtic warrior queen who led a revolt against the Romans in Britain."
+  },
+  {
+    "id": 2,
+    "name": "Miyamoto Musashi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Miyamoto_Musashi_Portrait.jpg/800px-Miyamoto_Musashi_Portrait.jpg",
+    "lifespan": "1584 – 1645",
+    "description": "Legendary Japanese swordsman, strategist, and philosopher."
+  },
+  {
+    "id": 3,
+    "name": "Harriet Tubman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Harriet_Tubman.jpg",
+    "lifespan": "1822 – 1913",
+    "description": "Abolitionist and conductor of the Underground Railroad, leading enslaved people to freedom."
+  },
+  {
+    "id": 4,
+    "name": "Olga of Kiev",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Olga_by_Nesterov_in_1892.jpg",
+    "lifespan": "c. 890 – 969",
+    "description": "Regent of Kievan Rus' who avenged her husband's death with legendary ruthlessness and later converted to Christianity."
+  },
+  {
+    "id": 5,
+    "name": "Joan of Arc",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Joan_of_arc_miniature_graded.jpg",
+    "lifespan": "1412 – 1431",
+    "description": "French heroine and military leader who led French forces during the Hundred Years' War."
+  },
+  {
+    "id": 6,
+    "name": "Genghis Khan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/YuanEmperorAlbumGenghisPortrait.jpg",
+    "lifespan": "c. 1162 – 1227",
+    "description": "Founder of the Mongol Empire, uniting nomadic tribes and conquering vast territories."
+  }
+]
