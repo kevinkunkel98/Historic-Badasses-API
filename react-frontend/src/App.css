@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+body {
+  background: url('/src/assets/warbg.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
